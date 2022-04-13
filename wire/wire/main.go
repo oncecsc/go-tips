@@ -1,7 +1,7 @@
 package main
 
 import (
-	"tips-go/wire/event"
+	"go-tips/wire/event"
 )
 
 func main() {
